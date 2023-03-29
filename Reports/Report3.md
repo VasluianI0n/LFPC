@@ -234,6 +234,6 @@ OUTPUT:
   ```
 ****
 ## References
-1. https://www.youtube.com/watch?v=qF2O1pOxpv8
-2. https://www.youtube.com/watch?v=HuVg1trQC64
-3. https://replit.com/talk/learn/Make-a-Full-Lexer-in-Python/111397
+1. https://www.youtube.com/watch?v=HuVg1trQC64&ab_channel=TheIvoryCoder
+2. https://replit.com/talk/learn/Make-a-Full-Lexer-in-Python/111397
+3. https://www.youtube.com/watch?v=m0MmpjJmZ6U&ab_channel=Bufferscope
