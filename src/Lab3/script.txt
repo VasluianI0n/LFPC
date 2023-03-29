@@ -1,0 +1,16 @@
+let x = 5;
+let y = 10;
+let result = x + y;
+
+if (result > 10) {
+    print("Reached");
+} else {
+    print("Result is less than or equal to 10");
+}
+
+for (let i = 0; i < 5; i = i + 1) {
+    print(i);
+}
+
+let greeting = "Hello, world!";
+print(greeting);
