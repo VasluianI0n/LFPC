@@ -352,7 +352,7 @@ The replace_nullables method takes a list of production rules and a set of nulla
 ****
 ## Conclusion/Results
 ```
-> py .\grammar.py
+C:\....> py .\grammar.py
 DEBUG
 S : ['DA', 'aB', 'aDAB', 'aDADB', 'B', 'aADB', 'BD', 'aAB', 'A', 'a']
 A : ['aDAB', 'aDADB', 'ASB', 'b', 'B', 'aADB', 'BD', 'aAB', 'a']
