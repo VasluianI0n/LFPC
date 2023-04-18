@@ -351,7 +351,15 @@ The replace_nullables method takes a list of production rules and a set of nulla
 
 ****
 ## Conclusion/Results
-
+```
+> py .\grammar.py
+DEBUG
+S : ['DA', 'aB', 'aDAB', 'aDADB', 'B', 'aADB', 'BD', 'aAB', 'A', 'a']
+A : ['aDAB', 'aDADB', 'ASB', 'b', 'B', 'aADB', 'BD', 'aAB', 'a']
+B : ['ASB', 'b']
+D : ['BA']
+PS C:\Users\ionva\OneDrive\Documents\GitHub\LFPC\src\Chomsky> 
+```
 ****
 ## References
 1.https://www.geeksforgeeks.org/converting-context-free-grammar-chomsky-normal-form/
