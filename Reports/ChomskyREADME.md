@@ -358,7 +358,7 @@ S : ['DA', 'aB', 'aDAB', 'aDADB', 'B', 'aADB', 'BD', 'aAB', 'A', 'a']
 A : ['aDAB', 'aDADB', 'ASB', 'b', 'B', 'aADB', 'BD', 'aAB', 'a']
 B : ['ASB', 'b']
 D : ['BA']
-PS C:\Users\ionva\OneDrive\Documents\GitHub\LFPC\src\Chomsky> 
+ 
 ```
 ****
 ## References
