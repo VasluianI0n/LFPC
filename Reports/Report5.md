@@ -1,4 +1,4 @@
-# Laboratory Work Nr.4 Chomsky Normal Form
+# Laboratory Work Nr.5 Parser & Building an Abstract Syntax Tree
 ## Course: Formal Languages & Finite Automata
 ## Author: Vasluian ION
 
@@ -126,5 +126,10 @@ AST Visualization:
 ```
 
 ****
+Refferences:
+
+[1][Parsing Wiki](https://en.wikipedia.org/wiki/Parsing)
+
+[2][Abstract Syntax Tree Wiki](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
 
